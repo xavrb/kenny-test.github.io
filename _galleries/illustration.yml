@@ -82,4 +82,10 @@ arts:
   title: "title"
   artist: "Gustav Klimt"
   description: "description"
+
+- image: "images/galleries/illustration/random.png"
+  order: "14"
+  title: "title"
+  artist: "Gustav Klimt"
+  description: "description"
 ---
